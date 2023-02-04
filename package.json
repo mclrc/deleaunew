@@ -8,8 +8,13 @@
   },
   "devDependencies": {
     "@nuxt/content": "npm:@nuxt/content-edge@latest",
+    "@nuxt/types": "^2.16.0",
+    "@nuxt/typescript-build": "^2.1.0",
     "@types/leaflet": "^1.7.11",
     "nuxt": "npm:nuxt3@latest",
     "sass": "^1.54.5"
+  },
+  "dependencies": {
+    "@nuxt/typescript-runtime": "^2.1.0"
   }
 }
