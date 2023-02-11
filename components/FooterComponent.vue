@@ -8,6 +8,7 @@
           <li>15, Place du Marché</li>
           <li>F-26170 Buis Les Baronnies</li>
           <li>+33 638 59 43 69</li>
+          <li>+49 1575 3535 828</li>
         </ul>
       </div>
       <div>
